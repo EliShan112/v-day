@@ -1,0 +1,9 @@
+.container{
+    height: 100vh;
+    width: 100vw;
+    background: url(https://images.indianexpress.com/2020/02/vtine-day_759_td.jpg?w=414);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
